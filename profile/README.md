@@ -24,7 +24,7 @@ Welcome to the **IEEE-HKN International Hackathon** repository - now in its **se
 
 ## Hackathon Tasks
 
-- Check the **[`/docs`](./docs)** folder for:  
+- Check the **[`/docs`](https://github.com/HKN-HACKATHON/docs)** folder for:  
   - The official hackathon challenge your team must solve along with the judging criteria (**“Hackathon Documentation”**)   
 - You’ll also find **guides** on using **GitHub** and the **Docker submission procedure** in the same folder.  
 
